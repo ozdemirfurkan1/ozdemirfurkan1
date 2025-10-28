@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ozdemirfurkan1
-- 👀 I’m interested in back-end 
-- 🌱 I’m currently learning .NET
+- 👀 I’m interested in Full Stack.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my gmail : furkanozdemirr64@gmail.com
 - 😄 Pronouns: ...
