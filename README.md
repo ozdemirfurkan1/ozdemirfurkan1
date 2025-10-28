@@ -31,8 +31,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:furkan@example.com">
-    📧 furkan@example.com
+  <a href="mailto:furkanozdemirr64@gmail.com">
+    📧 furkanozdemirr64@gmail.com
   </a>
 </p>
 
