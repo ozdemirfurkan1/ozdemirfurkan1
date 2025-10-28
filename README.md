@@ -18,11 +18,7 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozdemirfurkan1&show_icons=true&theme=radical&count_private=true" alt="furkan-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozdemirfurkan1&theme=radical" alt="furkan-streak" />
-</p>
+
 
 ---
 
@@ -37,7 +33,7 @@
 <p align="center">
   
   <a href="mailto:furkanozdemirr64@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" width="40" />
+  
   </a>
   
 </p>
